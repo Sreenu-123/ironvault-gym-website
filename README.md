@@ -8,7 +8,8 @@ Built as an open-source frontend project for developers, designers, and fitness 
 
 ## 🎬 Website Demo
 
-<img width="1710" height="1112" alt="Screenshot 2026-10-29 at 11 42 18 AM" src="https://github.com/user-attachments/assets/21b8c9a8-ec3d-40be-9dce-18cca81ee118" />
+<img width="1710" height="1112" alt="Screenshot 2026-10-29 at 12 04 19 PM" src="https://github.com/user-attachments/assets/293d8a6a-f9cf-4be7-80c2-f404e3c3d9c9" />
+
 
 **Watch IRONVAULT in action**
 
